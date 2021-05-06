@@ -6,7 +6,7 @@ source ./include/email.sh
 # Inizio Programma
 
 #clear
-echo "=== Ping Checker [FULL] ==="
+echo "=== Ping Controller [FULL] ==="
 echo
 echo "Timeout ping vs host impostato: $timeout"
 echo "MIN host down impostato: $hostdown"
