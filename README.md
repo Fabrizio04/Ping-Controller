@@ -1,5 +1,5 @@
 # Ping-Controller
-## Ping-Controller è un piccolo sistema scritto in Shell puro molto semplice per effettuare una veridica periodica attraverso un Ping su una lista di Host, con avviso via e-mail in caso di irraggiungibilità.
+## Ping-Controller è un piccolo sistema scritto in Shell puro molto semplice per effettuare una veridica periodica attraverso un Ping su una lista di Host, con avviso e-mail in caso di irraggiungibilità.
 
 
 ### Componenti richiesti (per avviso via mail)
@@ -16,8 +16,8 @@ Percorso launcher programma:
 %path%/launch.sh
 ```
 
-Questo è lo script da puntare per lanciare il programma, anche ad esempio con crontab.
-In quest'ultimo è possibile specificare il tipo di controllo.
+Questo è lo script da puntare per lanciare il programma, anche ad esempio con crontab.<br>
+In quest'ultimo è possibile specificare il tipo di controllo.<br>
 I parametri per specificare la tipologia di monitoraggio sono:
 
 ```bash
