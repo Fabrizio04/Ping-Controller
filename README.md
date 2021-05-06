@@ -75,7 +75,7 @@ checkprogram = "STRING (path)"
                percorso (relativo o assoluto) file output verifica stato del programma
                il valore viene poi restituito nella variabile lasttimestamp
                0 = il programma è nello stato normale
-               UNIX TIMESTAMP (sec) = instante di tempo controllo post reboot vpn
+               UNIX TIMESTAMP (sec) = instante di tempo controllo dopo prima verifica
 
 resetprogram = INT (sec)
                timeout reset programma
