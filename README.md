@@ -6,7 +6,7 @@
 
 - Mailx (Es. postfix)
 
-Questa funzione comunque può essere disattivata
+Questa funzione in ogni caso può essere disattivata
 
 ### Manuale
 
