@@ -1,13 +1,13 @@
 # Ping-Controller
 ## Ping-Controller è un piccolo sistema scritto in Shell puro molto semplice per effettuare una veridica periodica attraverso un Ping su una lista di Host, con avviso e-mail in caso di irraggiungibilità.
-
+<br>
 
 ### Componenti richiesti (per avviso via mail)
 
 - Mailx (Es. postfix)
 
 Questa funzione in ogni caso può essere disattivata
-
+<br><br>
 ### Manuale
 
 Percorso launcher programma:
@@ -24,7 +24,7 @@ I parametri per specificare la tipologia di monitoraggio sono:
 full = il monitoraggio controlla tutti gli indirizzi e verifica n. hostdown e hostonline impostati
 shot = il monitoraggio termina appena vengono contati n. hostdown impostati
 ```
-
+<br><br>
 Percorso script parametri programma:
 
 ```bash
@@ -81,3 +81,6 @@ resetprogram = INT (sec)
                timeout reset programma
 
 ```
+<br>
+Nota: originariamente i file sono stati creati su Windows.<br>
+In caso di problemi legati alla formattazione, una soluzione semplice è la conversione attraverso tools come dos2unix.
