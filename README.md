@@ -25,7 +25,7 @@ full = il monitoraggio controlla tutti gli indirizzi e verifica n. hostdown e ho
 shot = il monitoraggio termina appena vengono contati n. hostdown impostati
 ```
 
-Percorso file parametri programma:
+Percorso script parametri programma:
 
 ```bash
 %path%/include/param.sh
