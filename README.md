@@ -2,7 +2,7 @@
 ## Ping-Controller è un piccolo sistema scritto in Shell puro molto semplice per effettuare una verifica periodica attraverso un Ping su una lista di Host, con avviso e-mail in caso di irraggiungibilità.
 <br>
 
-### Componenti richiesti (per avviso via mail)
+### Componenti richiesti (per avviso via e-mail)
 
 - Mailx (Es. postfix)
 
